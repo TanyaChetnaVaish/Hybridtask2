@@ -1,4 +1,4 @@
-#Specify IAM User
+#Specify IAM User specs
 provider "aws" {
 	region  = "ap-south-1"
 	profile = "tanya1"
